@@ -5,7 +5,6 @@ Horizon Bliss is a hotel website featuring a homepage, facilities section, image
 
 ## Screenshot
 
-![Horizon Bliss Screenshot](URL_TO_YOUR_IMAGE)  
 ![hotel-home](https://github.com/user-attachments/assets/d7c97539-4403-468b-b1cf-ad4f9813cd78)
 ![hotel-facilities](https://github.com/user-attachments/assets/214c4c03-1fe4-41f3-92eb-4424a0e0502f)
 ![hotel-gallery](https://github.com/user-attachments/assets/00083859-0b80-412d-8401-ef9814890442)
